@@ -1,0 +1,6 @@
+fastapi
+mangum
+pymupdf
+boto3
+uvicorn
+python-multipart
